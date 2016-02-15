@@ -1,7 +1,7 @@
 name: vikrantkelkar
 favicon: null
-layout_spectrum: 0.12488039233721793
-typography_spectrum: 0.9511952621396631
+layout_spectrum: 0.089
+typography_spectrum: 0.96449
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.07730807480402291
+  brandStrength: 0.125
   lightness: 0.7868594662286341
   saturation: 0.13115224265493453
   rhythmicContrast: 0.7104067641776055
